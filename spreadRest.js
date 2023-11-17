@@ -5,6 +5,9 @@ function filterOutOdds() {
     });
   }
 
+
+  //trying to work with git
+
   const filterOutOdds = nums => Array.prototype.slice.call(...) => nums.filter(num % 2 === 0)
 
  
